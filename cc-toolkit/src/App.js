@@ -1,6 +1,6 @@
-import logo from "../logo.svg";
-import "../App.css";
-import ToolBar from "../Components/ToolBar.js";
+import logo from "./logo.svg";
+import "./App.css";
+import ToolBar from "./Components/ToolBar.js";
 
 function App() {
   return (
