@@ -1,0 +1,9978 @@
+{
+  "C000000": {
+    "Rank": 5,
+    "Admit rate": 0.05,
+    "name": "Yale U",
+    "URL": "https://www.yale.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1500,
+      "max": 1580
+    },
+    "Undergrad Enrollment": 6818,
+    "Location": "New Haven, CT",
+    "Price": {
+      "both": 67250
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 5,
+      "Near Metropolis": 2,
+      "Near Nature": 4,
+      "Student Population": 2
+    }
+  },
+  "C000001": {
+    "Rank": 86,
+    "Admit rate": 0.58,
+    "name": "Worcester Polytechnic Institute",
+    "URL": "https://www.wpi.edu/",
+    "ACT": {
+      "min": "NA",
+      "max": "NA"
+    },
+    "SAT": {
+      "min": "NA",
+      "max": "NA"
+    },
+    "Undergrad Enrollment": 5453,
+    "Location": "Worcester, MA",
+    "Price": {
+      "both": 60765
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 1,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 2,
+      "College Town": 1,
+      "Near Metropolis": 3,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000002": {
+    "Rank": 1,
+    "Admit rate": 0.1,
+    "name": "Williams  ",
+    "URL": "https://www.williams.edu/ ",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1470,
+      "max": 1560
+    },
+    "Undergrad Enrollment": 2097,
+    "Location": "Williamstown, MA",
+    "Price": {
+      "both": 68560
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 1
+    }
+  },
+  "C000003": {
+    "Rank": 54,
+    "Admit rate": 0.33,
+    "name": "William & Mary",
+    "URL": "https://www.wm.edu/",
+    "ACT": {
+      "min": 32,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1365,
+      "max": 1510
+    },
+    "Undergrad Enrollment": 6963,
+    "Location": "Williamsburg, VA",
+    "Price": {
+      "both": 50752
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000004": {
+    "Rank": 77,
+    "Admit rate": 0.79,
+    "name": "Willamette U",
+    "URL": "https://willamette.edu/",
+    "ACT": {
+      "min": 26,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1230,
+      "max": 1420
+    },
+    "Undergrad Enrollment": 1571,
+    "Location": "Salem, OR",
+    "Price": {
+      "both": 51156
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 4,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 1
+    }
+  },
+  "C000005": {
+    "Rank": 53,
+    "Admit rate": 0.5,
+    "name": "Whitman",
+    "URL": "https://www.whitman.edu//",
+    "ACT": {
+      "min": 27,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1270,
+      "max": 1480
+    },
+    "Undergrad Enrollment": 1523,
+    "Location": "Walla Walla, WA",
+    "Price": {
+      "both": 64050
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 5,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 1
+    }
+  },
+  "C000006": {
+    "Rank": 14,
+    "Admit rate": 0.17,
+    "name": "Wesleyan ",
+    "URL": "https://www.wesleyan.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1450,
+      "max": 1540
+    },
+    "Undergrad Enrollment": 3066,
+    "Location": "Middletown, CT",
+    "Price": {
+      "both": 70042
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 4,
+      "Vocational": 1,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000007": {
+    "Rank": 21,
+    "Admit rate": 0.12,
+    "name": "Washington U ",
+    "URL": "https://wustl.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1500,
+      "max": 1570
+    },
+    "Undergrad Enrollment": 8267,
+    "Location": "St. Louis, MO",
+    "Price": {
+      "both": 65790
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000008": {
+    "Rank": 19,
+    "Admit rate": 0.17,
+    "name": "Washington and Lee ",
+    "URL": "https://www.wlu.edu/",
+    "ACT": {
+      "min": 32,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1410,
+      "max": 1530
+    },
+    "Undergrad Enrollment": 1898,
+    "Location": "Lexington, VA",
+    "Price": {
+      "both": 68045
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 1,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 1,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000009": {
+    "Rank": 46,
+    "Admit rate": 0.22,
+    "name": "Wake Forest U",
+    "URL": "https://www.wfu.edu/",
+    "ACT": {
+      "min": 32,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1390,
+      "max": 1510
+    },
+    "Undergrad Enrollment": 5471,
+    "Location": "Winston-Salem, NC",
+    "Price": {
+      "both": 67642
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000010": {
+    "Rank": 51,
+    "Admit rate": 0.57,
+    "name": "Virginia Tech",
+    "URL": "https://www.vt.edu/",
+    "ACT": {
+      "min": 27,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1240,
+      "max": 1420
+    },
+    "Undergrad Enrollment": 30504,
+    "Location": "Blacksburg, VA",
+    "Price": {
+      "both": 37158
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 5,
+      "Artsy": 2,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 4
+    }
+  },
+  "C000011": {
+    "Rank": 58,
+    "Admit rate": 0.25,
+    "name": "Villanova",
+    "URL": "https://www1.villanova.edu/university.html",
+    "ACT": {
+      "min": 32,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1400,
+      "max": 1510
+    },
+    "Undergrad Enrollment": 7065,
+    "Location": "Villanova, PA",
+    "Price": {
+      "both": 67776
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 5,
+      "Progressive": 2,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 2,
+      "Vocational": 3,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 3,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000012": {
+    "Rank": 12,
+    "Admit rate": 0.18,
+    "name": "Vassar ",
+    "URL": "https://www.vassar.edu/vassar-college-home",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1435,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 2456,
+    "Location": "Poughkeepsie, NY",
+    "Price": {
+      "both": 71030
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 4,
+      "Vocational": 1,
+      "Artsy": 5,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000013": {
+    "Rank": 18,
+    "Admit rate": 0.06,
+    "name": "Vanderbilt U",
+    "URL": "https://www.vanderbilt.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1510,
+      "max": 1560
+    },
+    "Undergrad Enrollment": 7152,
+    "Location": "Nashville, TN",
+    "Price": {
+      "both": 67498
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 2,
+      "College Town": 4,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000014": {
+    "Rank": 27,
+    "Admit rate": 0.1,
+    "name": "USC",
+    "URL": "https://www.usc.edu/",
+    "ACT": {
+      "min": 32,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1440,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 21023,
+    "Location": "Los Angeles, CA",
+    "Price": {
+      "both": 71647
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 3
+    }
+  },
+  "C000015": {
+    "Rank": 40,
+    "Admit rate": 0.44,
+    "name": "Union  ",
+    "URL": "https://www.union.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1310,
+      "max": 1480
+    },
+    "Undergrad Enrollment": 2082,
+    "Location": "Schenectady, NY",
+    "Price": {
+      "both": 69039
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 2,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000016": {
+    "Rank": 58,
+    "Admit rate": 0.58,
+    "name": "UMass Amherst",
+    "URL": "https://www.umass.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1300,
+      "max": 1480
+    },
+    "Undergrad Enrollment": 23936,
+    "Location": "Amherst, MA",
+    "Price": {
+      "both": 40449
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 5,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 4
+    }
+  },
+  "C000017": {
+    "Rank": 33,
+    "Admit rate": 0.44,
+    "name": "UI Urbana Champaign   ",
+    "URL": "https://illinois.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1340,
+      "max": 1530
+    },
+    "Undergrad Enrollment": 35564,
+    "Location": "Champaign, IL",
+    "Price": {
+      "both": 36760
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 5,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 4
+    }
+  },
+  "C000018": {
+    "Rank": 84,
+    "Admit rate": 0.61,
+    "name": "UC Santa Cruz",
+    "URL": "https://www.ucsc.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 17812,
+    "Location": "Santa Cruz, CA",
+    "Price": {
+      "both": 15983
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 5,
+      "Vocational": 2,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 3
+    }
+  },
+  "C000019": {
+    "Rank": 39,
+    "Admit rate": 0.28,
+    "name": "UC Santa Barbara",
+    "URL": "https://www.ucsb.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 23232,
+    "Location": "Santa Barbara, CA",
+    "Price": {
+      "both": 15460
+    },
+    "criteria": {
+      "Diversity": 5,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 3
+    }
+  },
+  "C000020": {
+    "Rank": 29,
+    "Admit rate": 0.25,
+    "name": "UC San Diego",
+    "URL": "https://ucsd.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 33792,
+    "Location": "La Jolla, CA",
+    "Price": {
+      "both": 16815
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 3,
+      "College Town": 1,
+      "Near Metropolis": 5,
+      "Near Nature": 4,
+      "Student Population": 4
+    }
+  },
+  "C000021": {
+    "Rank": 76,
+    "Admit rate": 0.7,
+    "name": "UC Riverside",
+    "URL": "https://www.ucr.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 22646,
+    "Location": "Riverside, CA",
+    "Price": {
+      "both": 14316
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 3,
+      "Artsy": 3,
+      "College Town": 1,
+      "Near Metropolis": 3,
+      "Near Nature": 2,
+      "Student Population": 3
+    }
+  },
+  "C000022": {
+    "Rank": 58,
+    "Admit rate": 0.89,
+    "name": "UC Merced",
+    "URL": "https://www.ucmerced.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 8373,
+    "Location": "Merced, CA",
+    "Price": {
+      "both": 14610
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 1,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000023": {
+    "Rank": 15,
+    "Admit rate": 0.09,
+    "name": "UC Los Angeles",
+    "URL": "https://www.ucla.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 33040,
+    "Location": "Los Angeles, CA",
+    "Price": {
+      "both": 14208
+    },
+    "criteria": {
+      "Diversity": 5,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 1,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 4
+    }
+  },
+  "C000024": {
+    "Rank": 33,
+    "Admit rate": 0.26,
+    "name": "UC Irvine",
+    "URL": "https://uci.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 29503,
+    "Location": "Irvine, CA",
+    "Price": {
+      "both": 14737
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 1,
+      "Near Metropolis": 4,
+      "Near Nature": 2,
+      "Student Population": 4
+    }
+  },
+  "C000025": {
+    "Rank": 33,
+    "Admit rate": 0.42,
+    "name": "UC Davis",
+    "URL": "https://www.ucdavis.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 31797,
+    "Location": "Davis, CA",
+    "Price": {
+      "both": 15794
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 3,
+      "Artsy": 3,
+      "College Town": 5,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 5
+    }
+  },
+  "C000026": {
+    "Rank": 17,
+    "Admit rate": 0.12,
+    "name": "UC Berkeley",
+    "URL": "https://www.berkeley.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 33405,
+    "Location": "Berkeley, CA",
+    "Price": {
+      "both": 16832
+    },
+    "criteria": {
+      "Diversity": 5,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 5,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 4,
+      "Near Nature": 4,
+      "Student Population": 4
+    }
+  },
+  "C000027": {
+    "Rank": 39,
+    "Admit rate": 0.43,
+    "name": "U Wisconsin Madison",
+    "URL": "https://www.wisc.edu/",
+    "ACT": {
+      "min": 28,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1350,
+      "max": 1510
+    },
+    "Undergrad Enrollment": 37817,
+    "Location": "Madison, WI",
+    "Price": {
+      "both": 42103
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 4
+    }
+  },
+  "C000028": {
+    "Rank": 46,
+    "Admit rate": 0.43,
+    "name": "U Washington",
+    "URL": "https://www.washington.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1260,
+      "max": 1510
+    },
+    "Undergrad Enrollment": 39125,
+    "Location": "Seattle, WA",
+    "Price": {
+      "both": 43209
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 4,
+      "Student Population": 4
+    }
+  },
+  "C000029": {
+    "Rank": 121,
+    "Admit rate": 0.6,
+    "name": "U Vermont",
+    "URL": "https://www.uvm.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1250,
+      "max": 1420
+    },
+    "Undergrad Enrollment": 12168,
+    "Location": "Burlington, VT",
+    "Price": {
+      "both": 45502
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 3,
+      "Artsy": 4,
+      "College Town": 5,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 3
+    }
+  },
+  "C000030": {
+    "Rank": 136,
+    "Admit rate": 0.87,
+    "name": "U Utah ",
+    "URL": "https://www.utah.edu/",
+    "ACT": {
+      "min": 22,
+      "max": 29
+    },
+    "SAT": {
+      "min": 1180,
+      "max": 1398
+    },
+    "Undergrad Enrollment": 26827,
+    "Location": "Salt Lake City, UT",
+    "Price": {
+      "both": 34179
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 3,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 4,
+      "Student Population": 4
+    }
+  },
+  "C000031": {
+    "Rank": 30,
+    "Admit rate": 0.29,
+    "name": "U Texas Austin ",
+    "URL": "https://www.utexas.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 29,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1310,
+      "max": 1520
+    },
+    "Undergrad Enrollment": 42444,
+    "Location": "Austin, TX",
+    "Price": {
+      "both": 42778
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 4,
+      "Artsy": 4,
+      "College Town": 5,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 5
+    }
+  },
+  "C000032": {
+    "Rank": 109,
+    "Admit rate": 0.51,
+    "name": "U San Francisco",
+    "URL": "https://www.usfca.edu/",
+    "ACT": {
+      "min": 26,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1210,
+      "max": 1390
+    },
+    "Undergrad Enrollment": 5729,
+    "Location": "San Francisco, CA",
+    "Price": {
+      "both": 60492
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 4,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000033": {
+    "Rank": 109,
+    "Admit rate": 0.47,
+    "name": "U San Diego ",
+    "URL": "https://www.sandiego.edu/",
+    "ACT": {
+      "min": "NA",
+      "max": "NA"
+    },
+    "SAT": {
+      "min": "NA",
+      "max": "NA"
+    },
+    "Undergrad Enrollment": 5726,
+    "Location": "San Diego, CA",
+    "Price": {
+      "both": 59486
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 3,
+      "Student Population": 2
+    }
+  },
+  "C000034": {
+    "Rank": 44,
+    "Admit rate": 0.36,
+    "name": "U Rochester",
+    "URL": "https://www.rochester.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1400,
+      "max": 1540
+    },
+    "Undergrad Enrollment": 6764,
+    "Location": "Rochester, NY",
+    "Price": {
+      "both": 67124
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 4,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000035": {
+    "Rank": 22,
+    "Admit rate": 0.23,
+    "name": "U Richmond",
+    "URL": "https://www.richmond.edu/",
+    "ACT": {
+      "min": 32,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1410,
+      "max": 1530
+    },
+    "Undergrad Enrollment": 3054,
+    "Location": "Univ.  Richmond, VA",
+    "Price": {
+      "both": 65230
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000036": {
+    "Rank": 95,
+    "Admit rate": 0.76,
+    "name": "U Puget Sound",
+    "URL": "https://www.pugetsound.edu/",
+    "ACT": {
+      "min": 27,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1185,
+      "max": 1390
+    },
+    "Undergrad Enrollment": 1632,
+    "Location": "Tacoma, WA",
+    "Price": {
+      "both": 62898
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 2,
+      "Progressive": 3,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 2,
+      "Vocational": 3,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 4,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000037": {
+    "Rank": 70,
+    "Admit rate": 0.5,
+    "name": "U Pittsburgh ",
+    "URL": "https://www.pitt.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1270,
+      "max": 1450
+    },
+    "Undergrad Enrollment": 20220,
+    "Location": "Pittsburgh, PA",
+    "Price": {
+      "both": 41430
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 3
+    }
+  },
+  "C000038": {
+    "Rank": 10,
+    "Admit rate": 0.06,
+    "name": "U Penn",
+    "URL": "https://www.upenn.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1500,
+      "max": 1570
+    },
+    "Undergrad Enrollment": 9995,
+    "Location": "Philadelphia, PA",
+    "Price": {
+      "both": 68686
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000039": {
+    "Rank": 109,
+    "Admit rate": 0.85,
+    "name": "U Oregon",
+    "URL": "https://www.uoregon.edu/",
+    "ACT": {
+      "min": 22,
+      "max": 30
+    },
+    "SAT": {
+      "min": 1130,
+      "max": 1360
+    },
+    "Undergrad Enrollment": 19963,
+    "Location": "Eugene, OR",
+    "Price": {
+      "both": 42516
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 3,
+      "Artsy": 4,
+      "College Town": 5,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 3
+    }
+  },
+  "C000040": {
+    "Rank": 109,
+    "Admit rate": 0.87,
+    "name": "U New Hampshire",
+    "URL": "https://www.unh.edu/",
+    "ACT": {
+      "min": 26,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1120,
+      "max": 1320
+    },
+    "Undergrad Enrollment": 11387,
+    "Location": "Durham, NH",
+    "Price": {
+      "both": 39852
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 3,
+      "Near Nature": 5,
+      "Student Population": 3
+    }
+  },
+  "C000041": {
+    "Rank": 54,
+    "Admit rate": 0.77,
+    "name": "U Minnesota ",
+    "URL": "https://twin-cities.umn.edu/home",
+    "ACT": {
+      "min": 27,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1310,
+      "max": 1480
+    },
+    "Undergrad Enrollment": 39556,
+    "Location": "Minneapolis, MN",
+    "Price": {
+      "both": 38362
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 5
+    }
+  },
+  "C000042": {
+    "Rank": 21,
+    "Admit rate": 0.18,
+    "name": "U Michigan",
+    "URL": "https://umich.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1350,
+      "max": 1530
+    },
+    "Undergrad Enrollment": 33730,
+    "Location": "Ann Arbor, MI",
+    "Price": {
+      "both": 63081
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 4,
+      "College Town": 5,
+      "Near Metropolis": 3,
+      "Near Nature": 2,
+      "Student Population": 4
+    }
+  },
+  "C000043": {
+    "Rank": 63,
+    "Admit rate": 0.19,
+    "name": "U Miami",
+    "URL": "https://welcome.miami.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1330,
+      "max": 1470
+    },
+    "Undergrad Enrollment": 12883,
+    "Location": "Coral Gables, FL",
+    "Price": {
+      "both": 62616
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 3
+    }
+  },
+  "C000044": {
+    "Rank": 44,
+    "Admit rate": 0.45,
+    "name": "U Maryland",
+    "URL": "https://umd.edu/",
+    "ACT": {
+      "min": 32,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1370,
+      "max": 1520
+    },
+    "Undergrad Enrollment": 30608,
+    "Location": "College Park, MD",
+    "Price": {
+      "both": 41186
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 4,
+      "Near Nature": 1,
+      "Student Population": 4
+    }
+  },
+  "C000045": {
+    "Rank": 98,
+    "Admit rate": 0.85,
+    "name": "U Iowa ",
+    "URL": "https://uiowa.edu/",
+    "ACT": {
+      "min": 22,
+      "max": 28
+    },
+    "SAT": {
+      "min": 1130,
+      "max": 1320
+    },
+    "Undergrad Enrollment": 22130,
+    "Location": "Iowa City, IA",
+    "Price": {
+      "both": 33371
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 4
+    }
+  },
+  "C000046": {
+    "Rank": 171,
+    "Admit rate": 0.7,
+    "name": "U Hawaii",
+    "URL": "https://www.hawaii.edu/",
+    "ACT": {
+      "min": 18,
+      "max": 24
+    },
+    "SAT": {
+      "min": 1070,
+      "max": 1290
+    },
+    "Undergrad Enrollment": 14576,
+    "Location": "Honolulu, HI",
+    "Price": {
+      "both": 34218
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 4,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 4,
+      "Student Population": 3
+    }
+  },
+  "C000047": {
+    "Rank": 46,
+    "Admit rate": 0.37,
+    "name": "U Georgia",
+    "URL": "https://www.uga.edu/",
+    "ACT": {
+      "min": 27,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1220,
+      "max": 1420
+    },
+    "Undergrad Enrollment": 31514,
+    "Location": "Athens, GA",
+    "Price": {
+      "both": 31678
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 5,
+      "Progressive": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 5,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 4
+    }
+  },
+  "C000048": {
+    "Rank": 30,
+    "Admit rate": 0.24,
+    "name": "U Florida ",
+    "URL": "https://www.ufl.edu/",
+    "ACT": {
+      "min": 28,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1300,
+      "max": 1480
+    },
+    "Undergrad Enrollment": 34924,
+    "Location": "Gainesville, FL",
+    "Price": {
+      "both": 28658
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 4
+    }
+  },
+  "C000049": {
+    "Rank": 121,
+    "Admit rate": 0.71,
+    "name": "U Denver",
+    "URL": "https://www.du.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1240,
+      "max": 1410
+    },
+    "Undergrad Enrollment": 6412,
+    "Location": "Denver, CO",
+    "Price": {
+      "both": 61434
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 4,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 4,
+      "Student Population": 2
+    }
+  },
+  "C000050": {
+    "Rank": 70,
+    "Admit rate": 0.54,
+    "name": "U Connecticut",
+    "URL": "https://uconn.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1210,
+      "max": 1420
+    },
+    "Undergrad Enrollment": 19388,
+    "Location": "Storrs, CT",
+    "Price": {
+      "both": 43712
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 3
+    }
+  },
+  "C000051": {
+    "Rank": 98,
+    "Admit rate": 0.81,
+    "name": "U Colorado Boulder",
+    "URL": "https://www.colorado.edu/",
+    "ACT": {
+      "min": 27,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1150,
+      "max": 1390
+    },
+    "Undergrad Enrollment": 32100,
+    "Location": "Boulder, CO",
+    "Price": {
+      "both": 43622
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 5,
+      "Near Metropolis": 3,
+      "Near Nature": 4,
+      "Student Population": 4
+    }
+  },
+  "C000052": {
+    "Rank": 109,
+    "Admit rate": 0.86,
+    "name": "U Arizona",
+    "URL": "https://www.arizona.edu/",
+    "ACT": {
+      "min": 21,
+      "max": 30
+    },
+    "SAT": {
+      "min": 1160,
+      "max": 1420
+    },
+    "Undergrad Enrollment": 42075,
+    "Location": "Tucson, AZ",
+    "Price": {
+      "both": 38784
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 3,
+      "Student Population": 4
+    }
+  },
+  "C000053": {
+    "Rank": 24,
+    "Admit rate": 0.17,
+    "name": "U Virginia ",
+    "URL": "https://admission.virginia.edu/",
+    "ACT": {
+      "min": 32,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1410,
+      "max": 1530
+    },
+    "Undergrad Enrollment": 17618,
+    "Location": "Charlottesville, VA",
+    "Price": {
+      "both": 60907
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 2,
+      "Vocational": 3,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 3
+    }
+  },
+  "C000054": {
+    "Rank": 18,
+    "Admit rate": 0.12,
+    "name": "U Notre Dame",
+    "URL": "https://www.nd.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1440,
+      "max": 1540
+    },
+    "Undergrad Enrollment": 8968,
+    "Location": "Notre Dame, IN",
+    "Price": {
+      "both": 65025
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 1,
+      "College Town": 5,
+      "Near Metropolis": 2,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000055": {
+    "Rank": 27,
+    "Admit rate": 0.19,
+    "name": "U North Carolina Chapel Hill ",
+    "URL": "https://www.unc.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 30,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1370,
+      "max": 1530
+    },
+    "Undergrad Enrollment": 20880,
+    "Location": "Chapel Hill, NC",
+    "Price": {
+      "both": 41211
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 5,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 4
+    }
+  },
+  "C000056": {
+    "Rank": 11,
+    "Admit rate": 0.05,
+    "name": "U Chicago",
+    "URL": "https://www.uchicago.edu/en",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1510,
+      "max": 1570
+    },
+    "Undergrad Enrollment": 7489,
+    "Location": "Chicago, IL",
+    "Price": {
+      "both": 69324
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000057": {
+    "Rank": 63,
+    "Admit rate": 0.15,
+    "name": "Tulane ",
+    "URL": "https://tulane.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1390,
+      "max": 1510
+    },
+    "Undergrad Enrollment": 7295,
+    "Location": "New Orleans, LA",
+    "Price": {
+      "both": 68678
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 3,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000058": {
+    "Rank": 37,
+    "Admit rate": 0.1,
+    "name": "Tufts U",
+    "URL": "https://www.tufts.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1460,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 6877,
+    "Location": "Medford, MA",
+    "Price": {
+      "both": 70704
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 2,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 4,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000059": {
+    "Rank": 36,
+    "Admit rate": 0.34,
+    "name": "Trinity College ",
+    "URL": "https://www.trinitycollege.com/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1310,
+      "max": 1460
+    },
+    "Undergrad Enrollment": 2237,
+    "Location": "Hartford, CT",
+    "Price": {
+      "both": 70770
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000060": {
+    "Rank": 204,
+    "Admit rate": 0.63,
+    "name": "The New School ",
+    "URL": "https://www.newschool.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 6907,
+    "Location": "New York, NY",
+    "Price": {
+      "both": 58670
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 2,
+      "Progressive": 5,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 3,
+      "Artsy": 5,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000061": {
+    "Rank": 105,
+    "Admit rate": 0.43,
+    "name": "Texas Christian U ",
+    "URL": "https://www.tcu.edu/",
+    "ACT": {
+      "min": 26,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1150,
+      "max": 1375
+    },
+    "Undergrad Enrollment": 10915,
+    "Location": "Fort Worth, TX",
+    "Price": {
+      "both": 61740
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 2,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000062": {
+    "Rank": 51,
+    "Admit rate": 0.63,
+    "name": "Texas A&M  ",
+    "URL": "https://www.tamu.edu/index.html",
+    "ACT": {
+      "min": 25,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1140,
+      "max": 1380
+    },
+    "Undergrad Enrollment": 59933,
+    "Location": " Station, TX",
+    "Price": {
+      "both": 40307
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 2,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 5
+    }
+  },
+  "C000063": {
+    "Rank": 73,
+    "Admit rate": 0.42,
+    "name": "Syracuse ",
+    "URL": "https://www.syracuse.edu/",
+    "ACT": {
+      "min": 28,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1260,
+      "max": 1430
+    },
+    "Undergrad Enrollment": 15739,
+    "Location": "Syracuse, NY",
+    "Price": {
+      "both": 65528
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 3
+    }
+  },
+  "C000064": {
+    "Rank": 3,
+    "Admit rate": 0.07,
+    "name": "Swarthmore ",
+    "URL": "https://www.swarthmore.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1460,
+      "max": 1560
+    },
+    "Undergrad Enrollment": 1644,
+    "Location": "Swarthmore, PA",
+    "Price": {
+      "both": 65494
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 4,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000065": {
+    "Rank": 76,
+    "Admit rate": 0.43,
+    "name": "Stevens Institute  Technology ",
+    "URL": "https://www.stevens.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1370,
+      "max": 1500
+    },
+    "Undergrad Enrollment": 4026,
+    "Location": "Hoboken, NJ",
+    "Price": {
+      "both": 63462
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 1,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 1,
+      "College Town": 1,
+      "Near Metropolis": 4,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000066": {
+    "Rank": 4,
+    "Admit rate": 0.04,
+    "name": "Stanford",
+    "URL": "https://www.stanford.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1510,
+      "max": 1580
+    },
+    "Undergrad Enrollment": 8054,
+    "Location": "Stanford, CA",
+    "Price": {
+      "both": 65910
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 4,
+      "College Town": 4,
+      "Near Metropolis": 2,
+      "Near Nature": 3,
+      "Student Population": 2
+    }
+  },
+  "C000067": {
+    "Rank": 50,
+    "Admit rate": 0.52,
+    "name": "St. Olaf ",
+    "URL": "https://wp.stolaf.edu/",
+    "ACT": {
+      "min": 28,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1250,
+      "max": 1460
+    },
+    "Undergrad Enrollment": 3074,
+    "Location": "Northfield, MN",
+    "Price": {
+      "both": 59760
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 5,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 1
+    }
+  },
+  "C000068": {
+    "Admit rate": 0.88,
+    "name": "St. Mary's College of California",
+    "URL": "https://www.stmarys-ca.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 1955,
+    "Location": "Moraga, CA",
+    "Price": {
+      "both": 53372
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 2,
+      "Progressive": 3,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 2,
+      "College Town": 1,
+      "Near Metropolis": 3,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000069": {
+    "Rank": 91,
+    "Admit rate": 0.61,
+    "name": "Southern Methodist  ",
+    "URL": "https://www.smu.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1320,
+      "max": 1480
+    },
+    "Undergrad Enrollment": 7115,
+    "Location": "Dallas, TX",
+    "Price": {
+      "both": 67038
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000070": {
+    "Rank": 36,
+    "Admit rate": 0.23,
+    "name": "Skidmore ",
+    "URL": "https://www.skidmore.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1310,
+      "max": 1460
+    },
+    "Undergrad Enrollment": 2776,
+    "Location": "Saratoga Springs, NY",
+    "Price": {
+      "both": 67140
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 5,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 1
+    }
+  },
+  "C000071": {
+    "Rank": 152,
+    "Admit rate": 0.75,
+    "name": "Seattle U",
+    "URL": "https://www.seattleu.edu/",
+    "ACT": {
+      "min": 26,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1210,
+      "max": 1370
+    },
+    "Undergrad Enrollment": 4171,
+    "Location": "Seattle, WA",
+    "Price": {
+      "both": 56721
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000072": {
+    "Rank": 108,
+    "Admit rate": 0.59,
+    "name": "Sarah Lawrence ",
+    "URL": "https://www.sarahlawrence.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1270,
+      "max": 1440
+    },
+    "Undergrad Enrollment": 1521,
+    "Location": "Bronxville, NY",
+    "Price": {
+      "both": 66862
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 2,
+      "Progressive": 5,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 4,
+      "Vocational": 1,
+      "Artsy": 5,
+      "College Town": 4,
+      "Near Metropolis": 2,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000073": {
+    "Rank": 63,
+    "Admit rate": 0.44,
+    "name": "Santa Clara U",
+    "URL": "https://www.scu.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1340,
+      "max": 1500
+    },
+    "Undergrad Enrollment": 6249,
+    "Location": "Santa Clara, CA",
+    "Price": {
+      "both": 61293
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 2,
+      "Progressive": 1,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000074": {
+    "Rank": 109,
+    "Admit rate": 0.34,
+    "name": "San Diego State U",
+    "URL": "https://www.sdsu.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 32896,
+    "Location": "San Diego, CA",
+    "Price": {
+      "both": 8728
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 1,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 4
+    }
+  },
+  "C000075": {
+    "Rank": 41,
+    "Admit rate": 0.65,
+    "name": "Rutgers-New Brunswick",
+    "URL": "https://newbrunswick.rutgers.edu/",
+    "ACT": {
+      "min": 28,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1270,
+      "max": 1480
+    },
+    "Undergrad Enrollment": 36588,
+    "Location": "Piscataway, NJ",
+    "Price": {
+      "both": 37441
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 2,
+      "Near Nature": 2,
+      "Student Population": 4
+    }
+  },
+  "C000076": {
+    "Rank": 91,
+    "Admit rate": 0.71,
+    "name": "Rochester Institute  Technology ",
+    "URL": "https://www.rit.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1280,
+      "max": 1460
+    },
+    "Undergrad Enrollment": 14076,
+    "Location": "Rochester, NY",
+    "Price": {
+      "both": 59274
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 1,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 4,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 3
+    }
+  },
+  "C000077": {
+    "Rank": 18,
+    "Admit rate": 0.08,
+    "name": "Rice U ",
+    "URL": "https://www.rice.edu/",
+    "ACT": {
+      "min": 34,
+      "max": 36
+    },
+    "SAT": {
+      "min": 1500,
+      "max": 1570
+    },
+    "Undergrad Enrollment": 4574,
+    "Location": "Houston, TX",
+    "Price": {
+      "both": 60709
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000078": {
+    "Rank": 70,
+    "Admit rate": 0.59,
+    "name": "Rensselaer Polytechnic ",
+    "URL": "https://www.rpi.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1360,
+      "max": 1520
+    },
+    "Undergrad Enrollment": 5945,
+    "Location": "Troy, NY",
+    "Price": {
+      "both": 64081
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 1,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000079": {
+    "Rank": 63,
+    "Admit rate": 0.31,
+    "name": "Reed ",
+    "URL": "https://www.reed.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1320,
+      "max": 1500
+    },
+    "Undergrad Enrollment": 1523,
+    "Location": "Portland, OR",
+    "Price": {},
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 4,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 5,
+      "Student Population": 1
+    }
+  },
+  "C000080": {
+    "Rank": 179,
+    "Admit rate": 0.77,
+    "name": "Quinnipiac U",
+    "URL": "https://www.qu.edu/",
+    "ACT": {
+      "min": 24,
+      "max": 29
+    },
+    "SAT": {
+      "min": 1100,
+      "max": 1300
+    },
+    "Undergrad Enrollment": 6248,
+    "Location": "Hamden, CT",
+    "Price": {
+      "both": 55480
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 1,
+      "Progressive": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 1,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 2
+    }
+  },
+  "C000081": {
+    "Rank": 46,
+    "Admit rate": 0.5,
+    "name": "Purdue U",
+    "URL": "https://www.purdue.edu/",
+    "ACT": {
+      "min": 27,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1190,
+      "max": 1470
+    },
+    "Undergrad Enrollment": 39170,
+    "Location": "West Lafayette, IN",
+    "Price": {
+      "both": 28794
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 2,
+      "College Town": 5,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 4
+    }
+  },
+  "C000082": {
+    "Rank": 1,
+    "Admit rate": 0.04,
+    "name": "Princeton ",
+    "URL": "https://www.princeton.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1500,
+      "max": 1580
+    },
+    "Undergrad Enrollment": 5671,
+    "Location": "Princeton, NJ",
+    "Price": {
+      "both": 62400
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 5,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 1
+    }
+  },
+  "C000083": {
+    "Rank": 5,
+    "Admit rate": 0.07,
+    "name": "Pomona ",
+    "URL": "https://www.pomona.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1480,
+      "max": 1560
+    },
+    "Undergrad Enrollment": 1761,
+    "Location": "Claremont, CA",
+    "Price": {
+      "both": 65420
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 3,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000084": {
+    "Rank": 36,
+    "Admit rate": 0.17,
+    "name": "Pitzer",
+    "URL": "https://www.pitzer.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 1204,
+    "Location": "Claremont, CA",
+    "Price": {
+      "both": 65188
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 2,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000085": {
+    "Rank": 80,
+    "Admit rate": 0.5,
+    "name": "Pepperdine",
+    "URL": "https://www.pepperdine.edu/",
+    "ACT": {
+      "min": 26,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1250,
+      "max": 1450
+    },
+    "Undergrad Enrollment": 3629,
+    "Location": "Malibu, CA",
+    "Price": {
+      "both": 69918
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 1,
+      "Vocational": 1,
+      "Artsy": 1,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 1
+    }
+  },
+  "C000086": {
+    "Rank": 63,
+    "Admit rate": 0.54,
+    "name": "Penn State",
+    "URL": "https://www.psu.edu/",
+    "ACT": {
+      "min": 27,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1220,
+      "max": 1400
+    },
+    "Undergrad Enrollment": 42223,
+    "Location": "U Park, PA",
+    "Price": {
+      "both": 41790
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 5
+    }
+  },
+  "C000087": {
+    "Rank": 144,
+    "Admit rate": 0.79,
+    "name": "Oregon State",
+    "URL": "https://oregonstate.edu/",
+    "ACT": {
+      "min": 25,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1160,
+      "max": 1390
+    },
+    "Undergrad Enrollment": 30021,
+    "Location": "Corvallis, OR",
+    "Price": {
+      "both": 38190
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 4,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 4
+    }
+  },
+  "C000088": {
+    "Rank": 41,
+    "Admit rate": 0.51,
+    "name": "Ohio State",
+    "URL": "https://www.osu.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1330,
+      "max": 1480
+    },
+    "Undergrad Enrollment": 45728,
+    "Location": "Columbus, OH",
+    "Price": {
+      "both": 40022
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 5
+    }
+  },
+  "C000089": {
+    "Rank": 34,
+    "Admit rate": 0.4,
+    "name": "Occidental ",
+    "URL": "https://www.oxy.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1360,
+      "max": 1500
+    },
+    "Undergrad Enrollment": 1854,
+    "Location": "Los Angeles, CA",
+    "Price": {
+      "both": 66274
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 4,
+      "College Town": 2,
+      "Near Metropolis": 4,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000090": {
+    "Rank": 55,
+    "Admit rate": 0.33,
+    "name": "Oberlin",
+    "URL": "https://www.oberlin.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1370,
+      "max": 1510
+    },
+    "Undergrad Enrollment": 2950,
+    "Location": "Oberlin, OH",
+    "Price": {
+      "both": 64646
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 5,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000091": {
+    "Rank": 6,
+    "Admit rate": 0.07,
+    "name": "Northwestern U",
+    "URL": "https://www.northwestern.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1490,
+      "max": 1580
+    },
+    "Undergrad Enrollment": 8846,
+    "Location": "Evanston, IL",
+    "Price": {
+      "both": 68322
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 2,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 3,
+      "Near Nature": 3,
+      "Student Population": 2
+    }
+  },
+  "C000092": {
+    "Rank": 54,
+    "Admit rate": 0.06,
+    "name": "Northeastern",
+    "URL": "https://www.northeastern.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1460,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 15891,
+    "Location": "Boston, MA",
+    "Price": {
+      "both": 66162
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 3,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 3
+    }
+  },
+  "C000093": {
+    "Rank": 30,
+    "Admit rate": 0.09,
+    "name": "New York U",
+    "URL": "https://www.nyu.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1480,
+      "max": 1570
+    },
+    "Undergrad Enrollment": 29760,
+    "Location": "New York, NY",
+    "Price": {
+      "both": 62796
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 5,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 4
+    }
+  },
+  "C000094": {
+    "Rank": 84,
+    "Admit rate": 0.67,
+    "name": "New Jersey Institute  Technology",
+    "URL": "https://www.njit.edu/",
+    "ACT": {
+      "min": 25,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1210,
+      "max": 1478
+    },
+    "Undergrad Enrollment": 9523,
+    "Location": "Newark, NJ",
+    "Price": {
+      "both": 35912
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 2,
+      "College Town": 1,
+      "Near Metropolis": 4,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000095": {
+    "Rank": 2,
+    "Admit rate": 0.05,
+    "name": "MIT",
+    "URL": "https://www.mit.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 36
+    },
+    "SAT": {
+      "min": 1510,
+      "max": 1580
+    },
+    "Undergrad Enrollment": 4576,
+    "Location": "Cambridge, MA",
+    "Price": {
+      "both": 62396
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 3,
+      "Student Population": 2
+    }
+  },
+  "C000096": {
+    "Rank": 19,
+    "Admit rate": 0.1,
+    "name": "Middlebury ",
+    "URL": "https://www.middlebury.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1430,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 2800,
+    "Location": "Middlebury, VT",
+    "Price": {
+      "both": 67600
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000097": {
+    "Rank": 86,
+    "Admit rate": 0.87,
+    "name": "Marquette  ",
+    "URL": "https://www.marquette.edu/",
+    "ACT": {
+      "min": 26,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1200,
+      "max": 1370
+    },
+    "Undergrad Enrollment": 7652,
+    "Location": "Milwaukee, WI",
+    "Price": {
+      "both": 51170
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000098": {
+    "Rank": 26,
+    "Admit rate": 0.28,
+    "name": "Macalester ",
+    "URL": "https://www.macalester.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1370,
+      "max": 1520
+    },
+    "Undergrad Enrollment": 2142,
+    "Location": "St. Paul, MN",
+    "Price": {
+      "both": 68334
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000099": {
+    "Rank": 132,
+    "Admit rate": 0.81,
+    "name": "Loyola U Chicago",
+    "URL": "https://www.luc.edu/",
+    "ACT": {
+      "min": 27,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1160,
+      "max": 1340
+    },
+    "Undergrad Enrollment": 12487,
+    "Location": "Chicago, IL",
+    "Price": {
+      "both": 53710
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 3
+    }
+  },
+  "C000100": {
+    "Rank": 91,
+    "Admit rate": 0.4,
+    "name": "Loyola Marymount U",
+    "URL": "https://www.lmu.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1300,
+      "max": 1460
+    },
+    "Undergrad Enrollment": 7336,
+    "Location": "Los Angeles, CA",
+    "Price": {
+      "both": 61862
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 2,
+      "Vocational": 4,
+      "Artsy": 4,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000101": {
+    "Rank": 103,
+    "Admit rate": 0.75,
+    "name": "Lewis & Clark",
+    "URL": "https://www.lclark.edu/",
+    "ACT": {
+      "min": 28,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1210,
+      "max": 1390
+    },
+    "Undergrad Enrollment": 2194,
+    "Location": "Portland, OR",
+    "Price": {
+      "both": 64828
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 2,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 4,
+      "Student Population": 1
+    }
+  },
+  "C000102": {
+    "Rank": 46,
+    "Admit rate": 0.29,
+    "name": "Lehigh",
+    "URL": "https://www2.lehigh.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1350,
+      "max": 1490
+    },
+    "Undergrad Enrollment": 5811,
+    "Location": "Bethlehem, PA",
+    "Price": {
+      "both": 64980
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 2,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000103": {
+    "Rank": 69,
+    "Admit rate": 0.63,
+    "name": "Lawrence U",
+    "URL": "https://www.lawrence.edu/",
+    "ACT": {
+      "min": 27,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1200,
+      "max": 1430
+    },
+    "Undergrad Enrollment": 1410,
+    "Location": "Appleton, WI",
+    "Price": {
+      "both": 56982
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 1,
+      "Vocational": 1,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000104": {
+    "Rank": 31,
+    "Admit rate": 0.31,
+    "name": "Lafayette ",
+    "URL": "https://www.lafayette.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1340,
+      "max": 1490
+    },
+    "Undergrad Enrollment": 2764,
+    "Location": "Easton, PA",
+    "Price": {
+      "both": 64648
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000105": {
+    "Rank": 45,
+    "Admit rate": 0.31,
+    "name": "Kenyon ",
+    "URL": "https://www.kenyon.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1360,
+      "max": 1500
+    },
+    "Undergrad Enrollment": 2184,
+    "Location": "Gambier, OH",
+    "Price": {
+      "both": 69330
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 4,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000106": {
+    "Rank": 6,
+    "Admit rate": 0.08,
+    "name": "Johns Hopkins U",
+    "URL": "https://www.jhu.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1530,
+      "max": 1580
+    },
+    "Undergrad Enrollment": 6090,
+    "Location": "Baltimore, MD",
+    "Price": {
+      "both": 65230
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 4,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000107": {
+    "Rank": 73,
+    "Admit rate": 0.8,
+    "name": "Indiana U--Bloomington",
+    "URL": "https://bloomington.iu.edu/index.html",
+    "ACT": {
+      "min": 27,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1170,
+      "max": 1400
+    },
+    "Undergrad Enrollment": 36833,
+    "Location": "Bloomington, IN",
+    "Price": {
+      "both": 41891
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 5,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 4
+    }
+  },
+  "C000108": {
+    "Rank": 105,
+    "Admit rate": 0.55,
+    "name": "Illinois Institute  Technology",
+    "URL": "https://www.iit.edu/",
+    "ACT": {
+      "min": 25,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1180,
+      "max": 1410
+    },
+    "Undergrad Enrollment": 3316,
+    "Location": "Chicago, IL",
+    "Price": {
+      "both": 52386
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000109": {
+    "Rank": 28,
+    "Admit rate": 0.21,
+    "name": "Holy Cross",
+    "URL": "https://www.holycross.edu/",
+    "ACT": {
+      "min": 28,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1250,
+      "max": 1420
+    },
+    "Undergrad Enrollment": 3219,
+    "Location": "Worcester, MA",
+    "Price": {
+      "both": 64500
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 1,
+      "College Town": 1,
+      "Near Metropolis": 3,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000110": {
+    "Rank": 24,
+    "Admit rate": 0.13,
+    "name": "Haverford ",
+    "URL": "https://www.haverford.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1430,
+      "max": 1540
+    },
+    "Undergrad Enrollment": 1424,
+    "Location": "Haverford, PA",
+    "Price": {
+      "both": 70398
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 1,
+      "Vocational": 1,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 4,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000111": {
+    "Rank": 12,
+    "Admit rate": 0.13,
+    "name": "Harvey Mudd ",
+    "URL": "https://www.hmc.edu/",
+    "ACT": {
+      "min": 34,
+      "max": 36
+    },
+    "SAT": {
+      "min": 1480,
+      "max": 1560
+    },
+    "Undergrad Enrollment": 915,
+    "Location": "Claremont, CA",
+    "Price": {
+      "both": 68613
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 2,
+      "Vocational": 3,
+      "Artsy": 1,
+      "College Town": 4,
+      "Near Metropolis": 2,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000112": {
+    "Rank": 3,
+    "Admit rate": 0.03,
+    "name": "Harvard",
+    "URL": "https://www.harvard.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 36
+    },
+    "SAT": {
+      "min": 1500,
+      "max": 1580
+    },
+    "Undergrad Enrollment": 7110,
+    "Location": "Cambridge, MA",
+    "Price": {
+      "both": 61676
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000113": {
+    "Rank": 14,
+    "Admit rate": 0.12,
+    "name": "Hamilton ",
+    "URL": "https://www.hamilton.edu/",
+    "super reach": " ",
+    "ACT": {
+      "min": 32,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1410,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 2053,
+    "Location": "Clinton, NY",
+    "Price": {
+      "both": 68960
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000114": {
+    "Rank": 19,
+    "Admit rate": 0.13,
+    "name": "Grinnell ",
+    "URL": "https://www.grinnell.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1418,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 1775,
+    "Location": "Grinnell, IA",
+    "Price": {
+      "both": 68106
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 4,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000115": {
+    "Rank": 98,
+    "Admit rate": 0.76,
+    "name": "Gonzaga  ",
+    "URL": "https://www.gonzaga.edu/",
+    "ACT": {
+      "min": 26,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1220,
+      "max": 1410
+    },
+    "Undergrad Enrollment": 5163,
+    "Location": "Spokane, WA",
+    "Price": {
+      "both": 55480
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 2,
+      "Vocational": 3,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 2
+    }
+  },
+  "C000116": {
+    "Rank": 33,
+    "Admit rate": 0.16,
+    "name": "Georgia Tech",
+    "URL": "https://www.gatech.edu/",
+    "ACT": {
+      "min": 28,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1330,
+      "max": 1530
+    },
+    "Undergrad Enrollment": 19505,
+    "Location": "Atlanta, GA",
+    "Price": {
+      "both": 34484
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 3,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 3
+    }
+  },
+  "C000117": {
+    "Rank": 24,
+    "Admit rate": 0.13,
+    "name": "Georgetown U",
+    "URL": "https://www.georgetown.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 32,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1390,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 7968,
+    "Location": "Washington, DC",
+    "Price": {
+      "both": 68016
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000118": {
+    "Rank": 63,
+    "Admit rate": 0.44,
+    "name": "George Washington ",
+    "URL": "https://www.gwu.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1350,
+      "max": 1498
+    },
+    "Undergrad Enrollment": 11387,
+    "Location": "Washington, DC",
+    "Price": {
+      "both": 67710
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 2,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 3
+    }
+  },
+  "C000119": {
+    "Rank": 31,
+    "Admit rate": 0.32,
+    "name": "Franklin & Marshall ",
+    "URL": "https://www.franklinandmarshall.com/",
+    "ACT": {
+      "min": 29,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1298,
+      "max": 1460
+    },
+    "Undergrad Enrollment": 1911,
+    "Location": "Lancaster, PA",
+    "Price": {
+      "both": 70794
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 1,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 2,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000120": {
+    "Rank": 91,
+    "Admit rate": 0.56,
+    "name": "Fordham U",
+    "URL": "https://www.fordham.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1330,
+      "max": 1490
+    },
+    "Undergrad Enrollment": 10307,
+    "Location": "New York, NY",
+    "Price": {
+      "both": 64470
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000121": {
+    "Rank": 24,
+    "Admit rate": 0.11,
+    "name": "Emory U",
+    "URL": "https://www.emory.edu/home/index.html",
+    "ACT": {
+      "min": 32,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1460,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 7359,
+    "Location": "Atlanta, GA",
+    "Price": {
+      "both": 64280
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 4,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000122": {
+    "Admit rate": 0.48,
+    "name": "Emerson ",
+    "URL": "https://emerson.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1250,
+      "max": 1410
+    },
+    "Undergrad Enrollment": 4113,
+    "Location": "Boston, MA",
+    "Price": {
+      "both": 56032
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 2,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 5,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000123": {
+    "Rank": 121,
+    "Admit rate": 0.67,
+    "name": "Elon U ",
+    "URL": "https://www.elon.edu/",
+    "ACT": {
+      "min": 23,
+      "max": 28
+    },
+    "SAT": {
+      "min": 1143,
+      "max": 1305
+    },
+    "Undergrad Enrollment": 6402,
+    "Location": "Elon, NC",
+    "Price": {
+      "both": 46958
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 5,
+      "Progressive": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 3,
+      "Artsy": 3,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000124": {
+    "Rank": 6,
+    "Admit rate": 0.07,
+    "name": "Duke U",
+    "URL": "https://duke.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1520,
+      "max": 1570
+    },
+    "Undergrad Enrollment": 6488,
+    "Location": "Durham, NC",
+    "Price": {
+      "both": 69140
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 1,
+      "Artsy": 3,
+      "College Town": 5,
+      "Near Metropolis": 3,
+      "Near Nature": 5,
+      "Student Population": 2
+    }
+  },
+  "C000125": {
+    "Rank": 86,
+    "Admit rate": 0.78,
+    "name": "Drexel U",
+    "URL": "https://drexel.edu/",
+    "ACT": {
+      "min": 27,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1230,
+      "max": 1430
+    },
+    "Undergrad Enrollment": 12099,
+    "Location": "Philadelphia, PA",
+    "Price": {
+      "both": 62412
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 3
+    }
+  },
+  "C000126": {
+    "Rank": 45,
+    "Admit rate": 0.43,
+    "name": "Dickinson ",
+    "URL": "https://www.dickinson.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1268,
+      "max": 1430
+    },
+    "Undergrad Enrollment": 2204,
+    "Location": "Carlisle, PA",
+    "Price": {
+      "both": 65650
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000127": {
+    "Rank": 165,
+    "Admit rate": 0.74,
+    "name": "DePaul U",
+    "URL": "https://www.depaul.edu/Pages/default.aspx",
+    "ACT": {
+      "min": 26,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1130,
+      "max": 1340
+    },
+    "Undergrad Enrollment": 14374,
+    "Location": "Chicago, IL",
+    "Price": {
+      "both": 45999
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 4,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 3
+    }
+  },
+  "C000128": {
+    "Rank": 36,
+    "Admit rate": 0.17,
+    "name": "Denison ",
+    "URL": "https://denison.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1300,
+      "max": 1470
+    },
+    "Undergrad Enrollment": 2406,
+    "Location": "Granville, OH",
+    "Price": {
+      "both": 67000
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 3,
+      "Near Nature": 3,
+      "Student Population": 1
+    }
+  },
+  "C000129": {
+    "Rank": 14,
+    "Admit rate": 0.14,
+    "name": "Davidson ",
+    "URL": "https://www.davidson.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1360,
+      "max": 1510
+    },
+    "Undergrad Enrollment": 1904,
+    "Location": "Davidson, NC",
+    "Price": {
+      "both": 64160
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 4,
+      "Near Nature": 3,
+      "Student Population": 1
+    }
+  },
+  "C000130": {
+    "Rank": 15,
+    "Admit rate": 0.06,
+    "name": "Dartmouth ",
+    "URL": "https://home.dartmouth.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1500,
+      "max": 1570
+    },
+    "Undergrad Enrollment": 4447,
+    "Location": "Hanover, NH",
+    "Price": {
+      "both": 68019
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 1,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 2
+    }
+  },
+  "C000131": {
+    "Rank": 121,
+    "Admit rate": 0.72,
+    "name": "Creighton U",
+    "URL": "https://www.creighton.edu/",
+    "ACT": {
+      "min": 26,
+      "max": 30
+    },
+    "SAT": {
+      "min": 1250,
+      "max": 1430
+    },
+    "Undergrad Enrollment": 4262,
+    "Location": "Omaha, NE",
+    "Price": {
+      "both": 48856
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 4,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000132": {
+    "Rank": 11,
+    "Admit rate": 0.08,
+    "name": "Cornell U",
+    "URL": "https://www.cornell.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1480,
+      "max": 1560
+    },
+    "Undergrad Enrollment": 16071,
+    "Location": "Ithaca, NY",
+    "Price": {
+      "both": 69314
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 2,
+      "College Town": 5,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 3
+    }
+  },
+  "C000133": {
+    "Admit rate": 0.12,
+    "name": "Cooper Union",
+    "URL": "https://cooper.edu/welcome",
+    "ACT": {
+      "min": 33,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1400,
+      "max": 1520
+    },
+    "Undergrad Enrollment": 842,
+    "Location": "New York, NY",
+    "Price": {
+      "both": 44550
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000134": {
+    "Rank": 55,
+    "Admit rate": 0.38,
+    "name": "Connecticut College",
+    "URL": "https://www.conncoll.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1340,
+      "max": 1470
+    },
+    "Undergrad Enrollment": 1995,
+    "Location": "New London, CT",
+    "Price": {
+      "both": 67242
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 1,
+      "Vocational": 1,
+      "Artsy": 4,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000135": {
+    "Rank": 13,
+    "Admit rate": 0.04,
+    "name": "Columbia U",
+    "URL": "https://www.columbia.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1490,
+      "max": 1580
+    },
+    "Undergrad Enrollment": 8902,
+    "Location": "New York, NY",
+    "Price": {
+      "both": "$63,530"
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 4,
+      "Vocational": 3,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000136": {
+    "Rank": 76,
+    "Admit rate": 0.6,
+    "name": "Colorado School of Mines ",
+    "URL": "https://www.mines.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1320,
+      "max": 1470
+    },
+    "Undergrad Enrollment": 5852,
+    "Location": "Golden, CO",
+    "Price": {
+      "both": 44376
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 5,
+      "Progressive": 2,
+      "Liberal Arts Focus": 1,
+      "Interdisciplinary": 3,
+      "Vocational": 5,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 3,
+      "Near Nature": 4,
+      "Student Population": 2
+    }
+  },
+  "C000137": {
+    "Rank": 29,
+    "Admit rate": 0.16,
+    "name": "Colorado College",
+    "URL": "https://www.coloradocollege.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1260,
+      "max": 1480
+    },
+    "Undergrad Enrollment": 2180,
+    "Location": "Colorado Springs, CO",
+    "Price": {
+      "both": "$62,070"
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 1
+    }
+  },
+  "C000138": {
+    "Rank": 22,
+    "Admit rate": 0.12,
+    "name": "Colgate ",
+    "URL": "https://www.colgate.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1430,
+      "max": 1530
+    },
+    "Undergrad Enrollment": 3131,
+    "Location": "Hamilton, NY",
+    "Price": {
+      "both": 70306
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000139": {
+    "Rank": 25,
+    "Admit rate": 0.07,
+    "name": "Colby ",
+    "URL": "https://www.colby.edu/",
+    "ACT": {
+      "min": 32,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1440,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 2282,
+    "Location": "Waterville, ME",
+    "Price": {
+      "both": 69600
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 3,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 3,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000140": {
+    "Rank": 80,
+    "Admit rate": 0.38,
+    "name": "Clemson U",
+    "URL": "https://www.clemson.edu/index.html",
+    "ACT": {
+      "min": 28,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1230,
+      "max": 1390
+    },
+    "Undergrad Enrollment": 22875,
+    "Location": "Clemson, SC",
+    "Price": {
+      "both": 39498
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 3
+    }
+  },
+  "C000141": {
+    "Rank": 132,
+    "Admit rate": 0.42,
+    "name": "Clark U",
+    "URL": "https://www.clarku.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1240,
+      "max": 1400
+    },
+    "Undergrad Enrollment": 2372,
+    "Location": "Worcester, MA",
+    "Price": {
+      "both": 58467
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 3,
+      "Progressive": 4,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 2,
+      "Artsy": 4,
+      "College Town": 1,
+      "Near Metropolis": 3,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000142": {
+    "Rank": 8,
+    "Admit rate": 0.11,
+    "name": "Claremont McKenna ",
+    "URL": "https://www.cmc.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1450,
+      "max": 1560
+    },
+    "Undergrad Enrollment": 1381,
+    "Location": "Claremont, CA",
+    "Price": {
+      "both": 67980
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 1,
+      "Vocational": 1,
+      "Artsy": 2,
+      "College Town": 4,
+      "Near Metropolis": 2,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000143": {
+    "Rank": 121,
+    "Admit rate": 0.56,
+    "name": "Chapman U",
+    "URL": "https://www.chapman.edu/",
+    "ACT": {
+      "min": 28,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1250,
+      "max": 1430
+    },
+    "Undergrad Enrollment": 7874,
+    "Location": "Orange, CA",
+    "Price": {
+      "both": 64984
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 3,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 2,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000144": {
+    "Rank": 51,
+    "Admit rate": 0.29,
+    "name": "Case Western  ",
+    "URL": "https://case.edu/",
+    "ACT": {
+      "min": 32,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1420,
+      "max": 1530
+    },
+    "Undergrad Enrollment": 6186,
+    "Location": "Cleveland, OH",
+    "Price": {
+      "both": 66605
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 2,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000145": {
+    "Rank": 21,
+    "Admit rate": 0.11,
+    "name": "Carnegie Mellon U",
+    "URL": "https://www.cmu.edu/",
+    "ACT": {
+      "min": 34,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1500,
+      "max": 1570
+    },
+    "Undergrad Enrollment": 7707,
+    "Location": "Pittsburgh, PA",
+    "Price": {
+      "both": 65636
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 4,
+      "Vocational": 3,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 4,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000146": {
+    "Rank": 8,
+    "Admit rate": 0.22,
+    "name": "Carleton ",
+    "URL": "https://carleton.ca/",
+    "ACT": {
+      "min": 32,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1430,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 2069,
+    "Location": "Northfield, MN",
+    "Price": {
+      "both": 68892
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000147": {
+    "Rank": 6,
+    "Admit rate": 0.03,
+    "name": "CalTech",
+    "URL": "https://www.caltech.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 1023,
+    "Location": "Pasadena, CA",
+    "Price": {
+      "both": 65898
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 3,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 5,
+      "Artsy": 1,
+      "College Town": 4,
+      "Near Metropolis": 3,
+      "Near Nature": 3,
+      "Student Population": 1
+    }
+  },
+  "C000148": {
+    "Admit rate": 0.27,
+    "name": "Cal Poly SLO",
+    "URL": "https://www.calpoly.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 21497,
+    "Location": "San Luis Obispo, CA",
+    "Price": {},
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 5,
+      "Artsy": 4,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 4
+    }
+  },
+  "C000149": {
+    "Admit rate": 0.74,
+    "name": "Cal Poly Pomona",
+    "URL": "https://www.cpp.edu/",
+    "ACT": {
+      "min": 1,
+      "max": 36
+    },
+    "SAT": {
+      "min": 400,
+      "max": 1600
+    },
+    "Undergrad Enrollment": 21006,
+    "Location": "Pomona, CA",
+    "Price": {},
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 5,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 4,
+      "Near Nature": 2,
+      "Student Population": 4
+    }
+  },
+  "C000150": {
+    "Rank": 31,
+    "Admit rate": 0.32,
+    "name": "Bucknell U",
+    "URL": "https://www.bucknell.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1305,
+      "max": 1450
+    },
+    "Undergrad Enrollment": 3846,
+    "Location": "Lewisburg, PA",
+    "Price": {
+      "both": 67812
+    },
+    "criteria": {
+      "Diversity": 1,
+      "Research Opportunities": 4,
+      "Progressive": 3,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 1
+    }
+  },
+  "C000151": {
+    "Rank": 29,
+    "Admit rate": 0.31,
+    "name": "Bryn Mawr ",
+    "URL": "https://www.brynmawr.edu/",
+    "ACT": {
+      "min": 30,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1300,
+      "max": 1470
+    },
+    "Undergrad Enrollment": 1360,
+    "Location": "Bryn Mawr, PA",
+    "Price": {
+      "both": 65920
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 4,
+      "College Town": 3,
+      "Near Metropolis": 4,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000152": {
+    "Rank": 13,
+    "Admit rate": 0.05,
+    "name": "Brown U",
+    "URL": "https://www.brown.edu/",
+    "super reach": "true",
+    "ACT": {
+      "min": 34,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1500,
+      "max": 1570
+    },
+    "Undergrad Enrollment": 7741,
+    "Location": "Providence, RI",
+    "Price": {
+      "both": 71312
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 5,
+      "Vocational": 3,
+      "Artsy": 4,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000153": {
+    "Rank": 63,
+    "Admit rate": 0.35,
+    "name": "Brandeis",
+    "URL": "https://www.brandeis.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1370,
+      "max": 1520
+    },
+    "Undergrad Enrollment": 3675,
+    "Location": "Waltham, MA",
+    "Price": {
+      "both": 68080
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 4,
+      "College Town": 1,
+      "Near Metropolis": 4,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000154": {
+    "Rank": 5,
+    "Admit rate": 0.08,
+    "name": "Bowdoin ",
+    "URL": "https://www.bowdoin.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1480,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 1850,
+    "Location": "Brunswick, ME",
+    "Price": {
+      "both": 67832
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 2,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000155": {
+    "Rank": 41,
+    "Admit rate": 0.11,
+    "name": "Boston U",
+    "URL": "https://www.bu.edu/homepage-alt/",
+    "ACT": {
+      "min": 32,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1400,
+      "max": 1520
+    },
+    "Undergrad Enrollment": 18656,
+    "Location": "Boston, MA",
+    "Price": {
+      "both": 68102
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 3,
+      "Vocational": 4,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 3
+    }
+  },
+  "C000156": {
+    "Rank": 37,
+    "Admit rate": 0.16,
+    "name": "Boston College ",
+    "URL": "https://www.holycross.edu/",
+    "ACT": {
+      "min": 33,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1430,
+      "max": 1540
+    },
+    "Undergrad Enrollment": 9575,
+    "Location": "Chestnut Hill, MA",
+    "Price": {
+      "both": 70702
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 2,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 2,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 3
+    }
+  },
+  "C000157": {
+    "Admit rate": 0.48,
+    "name": "Bentley",
+    "URL": "https://www.bentley.edu/",
+    "ACT": {
+      "min": 28,
+      "max": 31
+    },
+    "SAT": {
+      "min": 1290,
+      "max": 1403
+    },
+    "Undergrad Enrollment": 4480,
+    "Location": "Waltham, MA",
+    "Price": {
+      "both": 54855
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 2,
+      "Progressive": 2,
+      "Liberal Arts Focus": 3,
+      "Interdisciplinary": 3,
+      "Vocational": 3,
+      "Artsy": 1,
+      "College Town": 1,
+      "Near Metropolis": 4,
+      "Near Nature": 2,
+      "Student Population": 2
+    }
+  },
+  "C000158": {
+    "Rank": 91,
+    "Admit rate": 0.51,
+    "name": "Baylor ",
+    "URL": "https://www.baylor.edu/",
+    "ACT": {
+      "min": 27,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1210,
+      "max": 1400
+    },
+    "Undergrad Enrollment": 15155,
+    "Location": "Waco, TX",
+    "Price": {
+      "both": 58100
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 2,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 4,
+      "Vocational": 3,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 3
+    }
+  },
+  "C000159": {
+    "Rank": 26,
+    "Admit rate": 0.13,
+    "name": "Bates ",
+    "URL": "https://www.bates.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 33
+    },
+    "SAT": {
+      "min": 1355,
+      "max": 1490
+    },
+    "Undergrad Enrollment": 1753,
+    "Location": "Lewiston, ME",
+    "Price": {
+      "both": 66590
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 3,
+      "Vocational": 1,
+      "Artsy": 3,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000160": {
+    "Rank": 71,
+    "Admit rate": 0.46,
+    "name": "Bard ",
+    "URL": "https://www.bard.edu/",
+    "ACT": {
+      "min": "NA",
+      "max": "NA"
+    },
+    "SAT": {
+      "min": "NA",
+      "max": "NA"
+    },
+    "Undergrad Enrollment": 2296,
+    "Location": "Annandale on Hudson, NY",
+    "Price": {
+      "both": "$57,968"
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 5,
+      "Liberal Arts Focus": 5,
+      "Interdisciplinary": 2,
+      "Vocational": 1,
+      "Artsy": 5,
+      "College Town": 1,
+      "Near Metropolis": 1,
+      "Near Nature": 4,
+      "Student Population": 1
+    }
+  },
+  "C000161": {
+    "Admit rate": 0.17,
+    "name": "Babson",
+    "URL": "https://www.babson.edu/",
+    "ACT": {
+      "min": 32,
+      "max": 34
+    },
+    "SAT": {
+      "min": 1450,
+      "max": 1530
+    },
+    "Undergrad Enrollment": 2793,
+    "Location": "Babson Park, MA",
+    "Price": {
+      "both": 84356
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 2,
+      "Progressive": 3,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 4,
+      "Vocational": 4,
+      "Artsy": 1,
+      "College Town": 2,
+      "Near Metropolis": 5,
+      "Near Nature": 2,
+      "Student Population": 1
+    }
+  },
+  "C000162": {
+    "Rank": 121,
+    "Admit rate": 0.9,
+    "name": "Arizona State U",
+    "URL": "https://www.asu.edu/",
+    "ACT": {
+      "min": 20,
+      "max": 28
+    },
+    "SAT": {
+      "min": 1140,
+      "max": 1380
+    },
+    "Undergrad Enrollment": 65174,
+    "Location": "Tempe, AZ",
+    "Price": {
+      "both": 33139
+    },
+    "criteria": {
+      "Diversity": 3,
+      "Research Opportunities": 4,
+      "Progressive": 4,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 5,
+      "Vocational": 5,
+      "Artsy": 2,
+      "College Town": 2,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 5
+    }
+  },
+  "C000163": {
+    "Rank": 2,
+    "Admit rate": 0.1,
+    "name": "Amherst ",
+    "URL": "https://www.amherst.edu/",
+    "ACT": {
+      "min": 31,
+      "max": 35
+    },
+    "SAT": {
+      "min": 1360,
+      "max": 1550
+    },
+    "Undergrad Enrollment": 1910,
+    "Location": "Amherst, MA",
+    "Price": {
+      "both": 70480
+    },
+    "criteria": {
+      "Diversity": 4,
+      "Research Opportunities": 5,
+      "Progressive": 4,
+      "Liberal Arts Focus": 4,
+      "Interdisciplinary": 4,
+      "Vocational": 1,
+      "Artsy": 3,
+      "College Town": 4,
+      "Near Metropolis": 1,
+      "Near Nature": 3,
+      "Student Population": 1
+    }
+  },
+  "C000164": {
+    "Rank": 91,
+    "Admit rate": 0.47,
+    "name": "American U",
+    "URL": "https://www.american.edu/",
+    "ACT": {
+      "min": 29,
+      "max": 32
+    },
+    "SAT": {
+      "min": 1290,
+      "max": 1450
+    },
+    "Undergrad Enrollment": 7817,
+    "Location": "Washington, DC",
+    "Price": {
+      "both": 58772
+    },
+    "criteria": {
+      "Diversity": 2,
+      "Research Opportunities": 5,
+      "Progressive": 5,
+      "Liberal Arts Focus": 2,
+      "Interdisciplinary": 2,
+      "Vocational": 2,
+      "Artsy": 3,
+      "College Town": 3,
+      "Near Metropolis": 5,
+      "Near Nature": 1,
+      "Student Population": 2
+    }
+  },
+  "C000165": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000166": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000167": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000168": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000169": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000170": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000171": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000172": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000173": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000174": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000175": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000176": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000177": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000178": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000179": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000180": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000181": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000182": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000183": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000184": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000185": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000186": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000187": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000188": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000189": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000190": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000191": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000192": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000193": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000194": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000195": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000196": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000197": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000198": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000199": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000200": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000201": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000202": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000203": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000204": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000205": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000206": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000207": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000208": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000209": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000210": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000211": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000212": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000213": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000214": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000215": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000216": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000217": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000218": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000219": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000220": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000221": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000222": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000223": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000224": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000225": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000226": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000227": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000228": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000229": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000230": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000231": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000232": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000233": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000234": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000235": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000236": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000237": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000238": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000239": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000240": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000241": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000242": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000243": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000244": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000245": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000246": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000247": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000248": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000249": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000250": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000251": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000252": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000253": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000254": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000255": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000256": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000257": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000258": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000259": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000260": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000261": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000262": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000263": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000264": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000265": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000266": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000267": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000268": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000269": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000270": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000271": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000272": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000273": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000274": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000275": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000276": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000277": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000278": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000279": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000280": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000281": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000282": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000283": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000284": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000285": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000286": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000287": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000288": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000289": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000290": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000291": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000292": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000293": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000294": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000295": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000296": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000297": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000298": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000299": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000300": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000301": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000302": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000303": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000304": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000305": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000306": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000307": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000308": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000309": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000310": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000311": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000312": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000313": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000314": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000315": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000316": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000317": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000318": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000319": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000320": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000321": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000322": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000323": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000324": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000325": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000326": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000327": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000328": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000329": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000330": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000331": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000332": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000333": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000334": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000335": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000336": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000337": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000338": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000339": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000340": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000341": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000342": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000343": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000344": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000345": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000346": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000347": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000348": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000349": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000350": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000351": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000352": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000353": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000354": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000355": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000356": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000357": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000358": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000359": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000360": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000361": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000362": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000363": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000364": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000365": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000366": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000367": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000368": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000369": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000370": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000371": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000372": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000373": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000374": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000375": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000376": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000377": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000378": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000379": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000380": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000381": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000382": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000383": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000384": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000385": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000386": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000387": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000388": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000389": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000390": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000391": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000392": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000393": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000394": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000395": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000396": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000397": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000398": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000399": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000400": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000401": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000402": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000403": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000404": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000405": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000406": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000407": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000408": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000409": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000410": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000411": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000412": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000413": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000414": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000415": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000416": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000417": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000418": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000419": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000420": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000421": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000422": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000423": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000424": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000425": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000426": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000427": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000428": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000429": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000430": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000431": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000432": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000433": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000434": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000435": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000436": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000437": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000438": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000439": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000440": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000441": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000442": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000443": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000444": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000445": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000446": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000447": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000448": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000449": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000450": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000451": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000452": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000453": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000454": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000455": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000456": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000457": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000458": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000459": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000460": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000461": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000462": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000463": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000464": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000465": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000466": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000467": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000468": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000469": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000470": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000471": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000472": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000473": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000474": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000475": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000476": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000477": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000478": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000479": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000480": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000481": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000482": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000483": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000484": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000485": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000486": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000487": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000488": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000489": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000490": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000491": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000492": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000493": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000494": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000495": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000496": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000497": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000498": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000499": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000500": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000501": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000502": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000503": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000504": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000505": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000506": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000507": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000508": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000509": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000510": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000511": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000512": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000513": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000514": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000515": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000516": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000517": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000518": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000519": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000520": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000521": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000522": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000523": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000524": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000525": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000526": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000527": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000528": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000529": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000530": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000531": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000532": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000533": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000534": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000535": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000536": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000537": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000538": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000539": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000540": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000541": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000542": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000543": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000544": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000545": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000546": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000547": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000548": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000549": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000550": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000551": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000552": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000553": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000554": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000555": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000556": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000557": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000558": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000559": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000560": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000561": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000562": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000563": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000564": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000565": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000566": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000567": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000568": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000569": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000570": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000571": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000572": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000573": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000574": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000575": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000576": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000577": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000578": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000579": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000580": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000581": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000582": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000583": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000584": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000585": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000586": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000587": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000588": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000589": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000590": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000591": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000592": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000593": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000594": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000595": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000596": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000597": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000598": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000599": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000600": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000601": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000602": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000603": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000604": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000605": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000606": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000607": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000608": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000609": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000610": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000611": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000612": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000613": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000614": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000615": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000616": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000617": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000618": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000619": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000620": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000621": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000622": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000623": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000624": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000625": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000626": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000627": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000628": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000629": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000630": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000631": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000632": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000633": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000634": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000635": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000636": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000637": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000638": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000639": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000640": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000641": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000642": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000643": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000644": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000645": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000646": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000647": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000648": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000649": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000650": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000651": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000652": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000653": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000654": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000655": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000656": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000657": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000658": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000659": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000660": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000661": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000662": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000663": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000664": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000665": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000666": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000667": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000668": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000669": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000670": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000671": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000672": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000673": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000674": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000675": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000676": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000677": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000678": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000679": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000680": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000681": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000682": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000683": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000684": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000685": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000686": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000687": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000688": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000689": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000690": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000691": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000692": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000693": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000694": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000695": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000696": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000697": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000698": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000699": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000700": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000701": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000702": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000703": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000704": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000705": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000706": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000707": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000708": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000709": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000710": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000711": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000712": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000713": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000714": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000715": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000716": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000717": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000718": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000719": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000720": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000721": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000722": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000723": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000724": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000725": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000726": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000727": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000728": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000729": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000730": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000731": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000732": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000733": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000734": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000735": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000736": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000737": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000738": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000739": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000740": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000741": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000742": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000743": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000744": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000745": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000746": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000747": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000748": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000749": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000750": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000751": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000752": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000753": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000754": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000755": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000756": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000757": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000758": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000759": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000760": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000761": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000762": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000763": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000764": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000765": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000766": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000767": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000768": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000769": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000770": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000771": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000772": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000773": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000774": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000775": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000776": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000777": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000778": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000779": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000780": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000781": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000782": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000783": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000784": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000785": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000786": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000787": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000788": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000789": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000790": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000791": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000792": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000793": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000794": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000795": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000796": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000797": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000798": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000799": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000800": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000801": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000802": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000803": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000804": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000805": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000806": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000807": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000808": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000809": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000810": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000811": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000812": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000813": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000814": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000815": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000816": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000817": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000818": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000819": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000820": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000821": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000822": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000823": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000824": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000825": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000826": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000827": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000828": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000829": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000830": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000831": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000832": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000833": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000834": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000835": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000836": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000837": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000838": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000839": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000840": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000841": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000842": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000843": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000844": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000845": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000846": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000847": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000848": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000849": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000850": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000851": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000852": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000853": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000854": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000855": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000856": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000857": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000858": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000859": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000860": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000861": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000862": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000863": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000864": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000865": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000866": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000867": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000868": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000869": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000870": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000871": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000872": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000873": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000874": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000875": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000876": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000877": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000878": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000879": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000880": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000881": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000882": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000883": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000884": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000885": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000886": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000887": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000888": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000889": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000890": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000891": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000892": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000893": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000894": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000895": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000896": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000897": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000898": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000899": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000900": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000901": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000902": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000903": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000904": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000905": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000906": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000907": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000908": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000909": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000910": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000911": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000912": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000913": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000914": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000915": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000916": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000917": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000918": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000919": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000920": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000921": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000922": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000923": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000924": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000925": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000926": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000927": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000928": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000929": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000930": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000931": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000932": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000933": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000934": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000935": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000936": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000937": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000938": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000939": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000940": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000941": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000942": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000943": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000944": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  },
+  "C000945": {
+    "ACT": {},
+    "SAT": {},
+    "Price": {},
+    "criteria": {}
+  }
+}
