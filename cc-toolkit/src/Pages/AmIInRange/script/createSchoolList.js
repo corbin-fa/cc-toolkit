@@ -1,5 +1,8 @@
+import "./allColleges-250513.json";
+import allColleges from "./allColleges-250513.json";
+
 function generateSchoolList(examType, examScore) {
-    return ["test", "test2", "test3", "UC Berkeley"];
+    return Object.values(allColleges);
 }
 
 export { generateSchoolList };

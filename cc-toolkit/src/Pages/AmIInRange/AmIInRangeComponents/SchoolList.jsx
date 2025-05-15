@@ -9,7 +9,7 @@ function SchoolList({schoolList}) {
         <div className="school_list_container">
             {
                 schoolList.map((s, index) => (
-                    <School key={index} name={s} />
+                    <School key={index} name={s.name} />
                 ))
             }
         </div>
