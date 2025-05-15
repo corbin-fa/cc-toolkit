@@ -39,6 +39,11 @@
     /* transform: translateY(-25%); */
 }
 
+.school_item {
+    display: flex;
+    justify-content: center;
+}
+
 /* Chrome, Safari, Edge, Opera */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
