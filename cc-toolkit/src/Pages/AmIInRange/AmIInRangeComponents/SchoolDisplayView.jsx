@@ -7,7 +7,7 @@ function SchoolDisplayView({examType, examScore}) {
 
     return (
         <div className="school_display_view">
-            <SchoolList schoolList={generateSchoolList(examType, examScore)}/>
+            <SchoolList schoolList={generateSchoolList(examType, examScore)} examType={examType} examScore={examScore}/>
         </div>
     );
 }
