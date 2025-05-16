@@ -115,6 +115,40 @@
     width: 100%;
 }
 
+.score_illustration_below_range {
+    display: flex;
+    flex-direction: row;
+}
+
+.below_range_score_indicator {
+    background-color: red;
+    position: relative;
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+}
+
+.below_range_school_range {
+    position: relative;
+    border-left: 3px solid red;
+    border-right: 3px solid red;
+    margin-left: auto;
+}
+
+.below_range_score_illustration_line {
+    border-bottom: 2px solid red;
+    height: calc(50% + 1px);
+    width: 100%;
+    background-color: transparent;
+}
+
+.below_range_score_labels {
+    display: flex;
+    flex-direction: row;
+    top: 100%;
+    margin-left: auto;
+}
+
 /* Chrome, Safari, Edge, Opera */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
