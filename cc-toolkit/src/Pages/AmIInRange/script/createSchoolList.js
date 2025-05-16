@@ -5,7 +5,12 @@ function generateSchoolList(examType, examScore) {
     let colleges = Object.values(allColleges);
 
     let newList = [];
-    colleges.forEach((c) => {
+    for (let i = 0; i < colleges.length; i++) {
+        let c = colleges[i];
+        if (typeof c[examType].min != "number") {
+            continue;
+        }
+
         let inRange = false;
         if (c[examType].min <= examScore && examScore <= c[examType].max) {
             inRange = true;
@@ -19,7 +24,7 @@ function generateSchoolList(examType, examScore) {
             "ACT": c["ACT"],
             "inRange": inRange,
         });
-    });
+    }
 
     console.log(newList);
     return newList;
