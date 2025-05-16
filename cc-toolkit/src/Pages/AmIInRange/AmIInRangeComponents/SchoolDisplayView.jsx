@@ -6,7 +6,7 @@ import "../AmIInRange.css";
 function SchoolDisplayView({examType, examScore}) {
 
     return (
-        <div class="school_display_view">
+        <div className="school_display_view">
             <SchoolList schoolList={generateSchoolList(examType, examScore)}/>
         </div>
     );
