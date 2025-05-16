@@ -79,7 +79,7 @@
 .student_score_indicator {
     position: absolute;
     top: 3px;
-    background-color: green;
+    background-color: blue;
     width: 15px;
     height: 15px;
     border-radius: 15px;
@@ -87,8 +87,8 @@
 
 .score_illustration_in_range {
     position: relative;
-    border-left: 2px solid green;
-    border-right: 2px solid green;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
     height: 20px;
     width: 100%;
 }
@@ -97,7 +97,7 @@
     position: absolute;
     height: calc(50% + 1px);
     width: 100%;
-    border-bottom: 2px solid green;
+    border-bottom: 2px solid blue;
     background-color: transparent;
 }
 
@@ -148,6 +148,42 @@
     top: 100%;
     margin-left: auto;
 }
+
+.score_illustration_above_range {
+    display: flex;
+    flex-direction: row;
+}
+
+.above_range_score_indicator {
+    background-color: green;
+    position: relative;
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+}
+
+.above_range_school_range {
+    position: relative;
+    border-left: 3px solid green;
+    border-right: 3px solid green;
+    margin-right: auto;
+}
+
+.above_range_score_illustration_line {
+    border-bottom: 2px solid green;
+    height: calc(50% + 1px);
+    width: 100%;
+    background-color: transparent;
+}
+
+.above_range_score_labels {
+    display: flex;
+    flex-direction: row;
+    top: 100%;
+    margin-right: auto;
+}
+
+
 
 /* Chrome, Safari, Edge, Opera */
 input::-webkit-outer-spin-button,

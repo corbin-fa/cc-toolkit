@@ -11,7 +11,32 @@ function ScoreIllustration({inRange, sMin, sMax, studentScore}) {
                     sMin={sMin}
                     sMax={sMax}
                 />;
+    } else if (studentScore > sMax) {
+        return <ScoreIllustrationAboveRange  
+            studentScore={studentScore}
+            sMin={sMin}
+            sMax={sMax}
+        />
     }
+}
+
+function ScoreIllustrationAboveRange({sMin, sMax, studentScore}) {
+    let schoolRangeWidth = ((sMax - sMin) / (studentScore-sMin)) * 100;
+
+    return (
+        <>
+        <div class="score_illustration_above_range">
+            <div class="above_range_school_range" style={{width: `${schoolRangeWidth}%`}}>
+                <div className="above_range_score_illustration_line"></div>
+            </div>
+            <div class="above_range_score_indicator"></div>
+        </div>
+        <div className="above_range_score_labels" style={{width: `${schoolRangeWidth}%`}}>
+                <div style={{marginRight: "auto"}}>{sMin}</div>
+                <div style={{marginLeft: "auto"}}>{sMax}</div>
+        </div>
+        </>
+    );
 }
 
 function ScoreIllustrationBelowRange({sMin, sMax, studentScore}) {
