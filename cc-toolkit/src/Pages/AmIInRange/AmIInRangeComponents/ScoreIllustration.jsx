@@ -9,9 +9,17 @@ function ScoreIllustrationInRange({sMin, sMax, studentScore}) {
     let studentScoreToPercent = ((studentScore - sMin) / (sMax - sMin)) * 100;
 
     return (
-        <div className="score_illustration_in_range">
-            <div className="score_illustration_line"></div>
-            <div className="student_score_indicator" style={{left: `${studentScoreToPercent}%`}}></div>
+        <div>
+            <div className="score_illustration_in_range">
+                <div>
+                    <div className="score_illustration_line"></div>
+                    <div className="student_score_indicator" style={{left: `calc(${studentScoreToPercent}% - 7px)`}}></div>
+                </div>
+            </div>
+            <div className="labels_container">
+                <div className="school_min_label">{sMin}</div>
+                <div className="school_max_label">{sMax}</div>
+            </div>
         </div>
     );
 }
