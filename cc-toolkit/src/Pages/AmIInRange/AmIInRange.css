@@ -204,8 +204,13 @@
 .filters_in_range_checkbox {
     top: 50%;
     height: 70%;
+    margin: 2px;
     width: auto;
     white-space: nowrap;
+}
+
+.school_search_input_field {
+    margin-right: 2px;
 }
 
 /* Chrome, Safari, Edge, Opera */

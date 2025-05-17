@@ -34,6 +34,7 @@ function SchoolFilterMenu({searchTextValue, searchTextSetter, filterByInRangeSet
                 type="text"
                 value={searchTextValue}
                 onChange={(e) => searchTextSetter(e.target.value)}
+                className="school_search_input_field"
             />
         </div>
     );
