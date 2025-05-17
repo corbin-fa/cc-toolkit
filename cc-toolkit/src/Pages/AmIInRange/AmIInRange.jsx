@@ -1,5 +1,5 @@
 import "./AmIInRange.css";
-import FunctionalComponents from "./AmIInRangeComponents/FunctionalComponents.jsx";
+import FunctionalComponents from "./components/FunctionalComponents.jsx";
 import Button from 'react-bootstrap/Button';
 
 import { Link } from 'react-router-dom';

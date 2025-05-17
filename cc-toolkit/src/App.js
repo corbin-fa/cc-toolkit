@@ -1,7 +1,7 @@
 import "./App.css";
 import Home from "./Pages/home.jsx";
 import AmIInRange from "./Pages/AmIInRange/AmIInRange.jsx";
-import SatActConverter from "./Pages/SatActConverter.jsx";
+import SatActConverter from "./Pages/SatActConverter/SatActConverter.jsx";
 import SatGpaConverter from "./Pages/SatGpaConverter.jsx";
 import { HashRouter, Routes, Route } from "react-router-dom";
 

@@ -39,7 +39,7 @@ function FunctionalComponents() {
           event.preventDefault();
           event.target.blur();
         }
-       }
+    }
 
 
     return (
