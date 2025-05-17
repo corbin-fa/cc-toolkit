@@ -14,12 +14,13 @@ function SchoolDisplayView({examType, examScore}) {
     return (
         <div className="school_display_view">
             <SchoolFilterMenu 
+                searchTextValue={searchText}
                 searchTextSetter={setSearchText} 
                 filterByInRangeSetter={setFilterByInRange}
                 filterByInRangeValue={filterByInRange}
             />
             <SchoolList 
-                schoolList={generateSchoolList(examType, examScore, filterByInRange)} 
+                schoolList={generateSchoolList(examType, examScore, filterByInRange, searchText)} 
                 examType={examType} 
                 examScore={examScore}
             />

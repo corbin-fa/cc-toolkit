@@ -1,12 +1,19 @@
 import "./allColleges-250513.json";
 import allColleges from "./allColleges-250513.json";
 
-function generateSchoolList(examType, examScore, inRangeOnly) {
+import stringSimilarity from "string-similarity";
+
+function generateSchoolList(examType, examScore, inRangeOnly, searchText) {
     let colleges = Object.values(allColleges);
 
     let newList = [];
     for (let i = 0; i < colleges.length; i++) {
         let c = colleges[i];
+
+        if (searchText != "" && !(stringSimilarity.compareTwoStrings(c.name.toLowerCase(), searchText.toLowerCase()) > 0.5)) {
+            continue;
+        }
+
         if (typeof c[examType].min != "number") {
             continue;
         }

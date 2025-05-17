@@ -197,6 +197,17 @@
     justify-content: center;
 }
 
+.filters_search_label {
+    margin: 4px;
+}
+
+.filters_in_range_checkbox {
+    top: 50%;
+    height: 70%;
+    width: auto;
+    white-space: nowrap;
+}
+
 /* Chrome, Safari, Edge, Opera */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
