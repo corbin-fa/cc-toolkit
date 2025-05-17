@@ -7,7 +7,7 @@ import ToggleButton from 'react-bootstrap/ToggleButton';
 import ToggleButtonGroup from 'react-bootstrap/ToggleButtonGroup';
 import Form from 'react-bootstrap/Form';
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 const examTypeBounds = {
     "ACT": {

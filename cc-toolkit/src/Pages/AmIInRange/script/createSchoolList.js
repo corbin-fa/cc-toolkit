@@ -1,8 +1,6 @@
 import "./allColleges-250513.json";
 import allColleges from "./allColleges-250513.json";
 
-import stringSimilarity from "string-similarity";
-
 function generateSchoolList(examType, examScore, inRangeOnly, searchText) {
     let colleges = Object.values(allColleges);
 
@@ -10,11 +8,13 @@ function generateSchoolList(examType, examScore, inRangeOnly, searchText) {
     for (let i = 0; i < colleges.length; i++) {
         let c = colleges[i];
 
-        if (searchText != "" && !(stringSimilarity.compareTwoStrings(c.name.toLowerCase(), searchText.toLowerCase()) > 0.5)) {
+        // TODO: change tool so that common nicknames of schools are also searchable
+        const regex = new RegExp(searchText, "i");
+        if (searchText !== "" && !regex.test(c.name)) {
             continue;
         }
 
-        if (typeof c[examType].min != "number") {
+        if (typeof c[examType].min !== "number") {
             continue;
         }
 
