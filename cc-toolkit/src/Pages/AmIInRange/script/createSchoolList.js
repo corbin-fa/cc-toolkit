@@ -1,7 +1,7 @@
 import "./allColleges-250513.json";
 import allColleges from "./allColleges-250513.json";
 
-function generateSchoolList(examType, examScore) {
+function generateSchoolList(examType, examScore, inRangeOnly) {
     let colleges = Object.values(allColleges);
 
     let newList = [];
@@ -15,6 +15,9 @@ function generateSchoolList(examType, examScore) {
         if (c[examType].min <= examScore && examScore <= c[examType].max) {
             inRange = true;
         } else {
+            if (inRangeOnly) {
+                continue;
+            }
             inRange = false;
         }
 
@@ -26,7 +29,6 @@ function generateSchoolList(examType, examScore) {
         });
     }
 
-    console.log(newList);
     return newList;
 }
 

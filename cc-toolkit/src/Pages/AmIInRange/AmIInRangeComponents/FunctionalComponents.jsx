@@ -32,11 +32,6 @@ function FunctionalComponents() {
         setExamScore(newValue.target.value);
     }
 
-    useEffect(() => {
-        console.log(examType, examScore);
-    }, [examType, examScore]);
-
-
     // Stack overflow: https://stackoverflow.com/questions/67847888/javascript-remove-focus-on-enter-key-press
     function handleEnter(event) {
         //key code for enter
