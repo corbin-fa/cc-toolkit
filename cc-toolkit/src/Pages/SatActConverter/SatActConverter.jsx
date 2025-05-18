@@ -9,7 +9,7 @@ function SatActConverter() {
         <Link to="/" style={{margin: "8px", position: "absolute"}}>
         <Button variant="primary">Return Home</Button>
         </Link>
-        <h1>SatActConverter</h1>
+        <h1>SAT/ACT/GPA Converter</h1>
         <p margin={{margin: "2px"}}>The conversions used for this tool can be found at <a href="https://www.act.org/content/act/en/products-and-services/the-act/scores/act-sat-concordance.html">act.org</a></p>
         <SatActInput />
     </div>
