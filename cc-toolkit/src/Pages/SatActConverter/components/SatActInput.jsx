@@ -168,9 +168,10 @@ function SatActInput() {
             <Form.Control
                 type="number"
                 id="range"
-                value={satScore}
+                value={satScore || ""}
                 onChange={(e) => {
                     let sat = e.target.value;
+
                     setSatScore(sat);
                     if (validSat(sat)) {
                         setActScore(convertSatToAct(sat));
@@ -184,9 +185,10 @@ function SatActInput() {
             <Form.Control
                 type="number"
                 id="range"
-                value={actScore}
+                value={actScore || ""}
                 onChange={(e) => {
                     let act = e.target.value;
+
                     setActScore(act);
                     if (validAct(act)) { 
                         setSatScore(convertActToSat(act));
