@@ -13,8 +13,6 @@
     "string-similarity": "^4.0.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -37,10 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "ghpages": "^0.0.10"
-  },
-  "homepage": "https://corbin-fa.github.io/cc-toolkit"
-
+  }
 }
