@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cc-toolkit/static/css/main.4beea6ff.css",
+    "main.js": "/cc-toolkit/static/js/main.2fc053d2.js",
+    "index.html": "/cc-toolkit/index.html",
+    "main.4beea6ff.css.map": "/cc-toolkit/static/css/main.4beea6ff.css.map",
+    "main.2fc053d2.js.map": "/cc-toolkit/static/js/main.2fc053d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4beea6ff.css",
+    "static/js/main.2fc053d2.js"
+  ]
+}
